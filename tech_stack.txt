@@ -1,0 +1,5 @@
+Python
+LangChain
+Flask
+Meta-Llama2-7B
+Pinecone
