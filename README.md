@@ -160,4 +160,15 @@ Follow the usage instructions above.
 ## 📞 Contact
 
 Adittya Saha - armstersaha8@gmail.com
-Repo Owner - armster01
+  Repo Owner - armster01
+
+<img width="1876" height="813" alt="Screenshot 2025-10-28 142729" src="https://github.com/user-attachments/assets/3c84f37f-8ba4-466a-a513-5ae756f7a6c1" />
+
+<img width="1887" height="811" alt="Screenshot 2025-10-28 145858" src="https://github.com/user-attachments/assets/96c3e282-10ee-42a8-a5ba-a582ce13a7c9" />
+
+<img width="1624" height="193" alt="Screenshot 2025-10-28 160642" src="https://github.com/user-attachments/assets/d12d4549-4be9-4d67-b8d8-de50c313bd31" />
+
+<img width="1489" height="282" alt="Screenshot 2025-10-28 164045" src="https://github.com/user-attachments/assets/590dd64b-148e-4a99-ae62-6d8563c04169" />
+
+
+
