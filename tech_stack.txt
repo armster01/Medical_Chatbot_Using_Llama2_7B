@@ -3,3 +3,7 @@ LangChain
 Flask
 Meta-Llama2-7B
 Pinecone
+
+To run: - 
+a. python store_index.python ---> Vectors will be stored inside Pinecone
+b. python app.py ---> The app will run on `http://localhost:8080`

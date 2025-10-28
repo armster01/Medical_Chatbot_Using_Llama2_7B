@@ -1,17 +1,16 @@
 ctransformers==0.2.5
-sentence-transformers==2.2.2
+sentence-transformers>=2.7.0
 pinecone-client==2.2.4
 flask
 pypdf == 5.6.1
 python-dotenv == 1.1.0
 langchain == 0.3.26
-langchain-pinecone == 0.2.8 
+langchain-pinecone == 0.2.8
 langchain-community == 0.3.26
 openai
 tiktoken
 langchain-core
 faiss-cpu
-sentence-transformers
 PyMuPDF
 
 -e .
